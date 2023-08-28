@@ -11,6 +11,8 @@ git clone https://github.com/ManuelismoXp/express-load-route.git
 cd express-load-route
 
 npm i
+
+npm run start
 ```
 
 ## Contributing
